@@ -9,7 +9,7 @@
 package org.eclipse.example.calc.internal;
 
 /**
- * Display abstraction for {@link Calculator}
+ * Display abstraction for {@link Calculator} and other
  */
 public interface TextProvider {
 
