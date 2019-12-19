@@ -36,6 +36,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		// TODO: Primfaktorzerlegung
 		new Equals();
 		new Minus();
 		new Plus();
