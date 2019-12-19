@@ -15,6 +15,7 @@ import org.eclipse.example.calc.Operations;
 import org.junit.After;
 import org.junit.Test;
 
+// TEST MARKUS
 public class CalculatorTest {
 
 	@After
