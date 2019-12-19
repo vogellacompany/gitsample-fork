@@ -37,10 +37,13 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		// more to come
+		// more operations to come
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		// another change to see how it works
+		// This is a test
 	}
 
 	private void calculate(String cmdName) {
@@ -58,7 +61,8 @@ public class Calculator {
 			setClearText(true);
 		} else {
 			// if saved command is binary perform it
-			Operation savedOp = Operations.INSTANCE.getOperation(cmd);
+			Operation savedOp = Operations.
+					INSTANCE.getOperation(cmd);
 			if (savedOp instanceof BinaryOperation) {
 				BinaryOperation bop = (BinaryOperation) savedOp;
 				newValue = bop.perform(value, curValue);
