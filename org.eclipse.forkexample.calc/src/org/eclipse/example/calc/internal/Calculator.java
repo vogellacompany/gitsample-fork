@@ -44,6 +44,7 @@ public class Calculator {
 	}
 
 	private void calculate(String cmdName) {
+	    // another fancy comment
 		float curValue;
 		float newValue = 0;
 
