@@ -37,6 +37,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		// TODO: Primfaktorzerlegung
+		// TODO: Umrechnung Wasser in Milliliter in Gramm
 		new Equals();
 		new Minus();
 		new Plus();
