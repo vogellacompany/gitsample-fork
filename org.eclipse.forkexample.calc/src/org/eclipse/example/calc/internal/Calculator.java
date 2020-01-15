@@ -110,4 +110,9 @@ public class Calculator {
 	public void setClearText(boolean clearText) {
 		this.clearText = clearText;
 	}
+	
+	public double secToDecimal(int second) {
+		return ((double) second) * 10 / 6;
+	}
+
 }
