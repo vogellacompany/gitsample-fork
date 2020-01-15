@@ -40,7 +40,7 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
-		// Hier müssen neue Funktionen hinzu
+		// Hier müssen neue Funktionen hinzu: Divide und Plutimikation
 	}
 
 	private void calculate(String cmdName) {
