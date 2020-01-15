@@ -37,7 +37,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		//more operations to come
-		// work directly in master
+		//work directly in master
 		//newFeatureBranch
 		new Equals();
 		new Minus();
