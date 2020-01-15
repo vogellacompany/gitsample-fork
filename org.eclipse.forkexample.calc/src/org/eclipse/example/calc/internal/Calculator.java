@@ -114,5 +114,6 @@ public class Calculator {
 	public int decToSecond(double decimal) {
 		// Dezimalzahl in Sekunden
 		return (int) decimal * 6 / 10;
+		// Ist gut geworden!
 	}
 }
