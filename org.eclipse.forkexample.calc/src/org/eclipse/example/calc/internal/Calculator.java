@@ -110,4 +110,8 @@ public class Calculator {
 	public void setClearText(boolean clearText) {
 		this.clearText = clearText;
 	}
+	
+	public int decToSecond(double decimal) {
+		return (int) decimal * 6 / 10;
+	}
 }
