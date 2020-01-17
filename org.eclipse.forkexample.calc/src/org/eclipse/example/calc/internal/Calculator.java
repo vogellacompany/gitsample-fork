@@ -31,11 +31,13 @@ public class Calculator {
 	public static String NAME = "Simple Calculator";
 
 	public Calculator(TextProvider textProvider) {
+	    // new and very important comment
 		this.textProvider = textProvider;
 		setupDefaultOperations();
 	}
 
 	private void setupDefaultOperations() {
+	    // the second important comment
 		new Equals();
 		new Minus();
 		new Plus();
