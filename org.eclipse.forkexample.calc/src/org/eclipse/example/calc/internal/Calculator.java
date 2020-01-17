@@ -36,10 +36,13 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		// more operations to come
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		// TODO: add some more
+		// commit and push
 	}
 
 	private void calculate(String cmdName) {
