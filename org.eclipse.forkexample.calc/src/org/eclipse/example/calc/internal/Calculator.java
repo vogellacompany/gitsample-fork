@@ -31,6 +31,7 @@ public class Calculator {
 	public static String NAME = "Simple Calculator";
 
 	public Calculator(TextProvider textProvider) {
+	    // new and very important comment
 		this.textProvider = textProvider;
 		setupDefaultOperations();
 	}
