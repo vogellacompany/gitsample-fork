@@ -20,6 +20,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+/** Ich wollte hier mal einen Kommentar reinschreiben **/
+
 public class OperationsTest {
 
 	private Square square;
