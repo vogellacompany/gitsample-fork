@@ -19,6 +19,7 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 // Kommentar
+//Kommentar 2
 
 public class Calculator {
 
