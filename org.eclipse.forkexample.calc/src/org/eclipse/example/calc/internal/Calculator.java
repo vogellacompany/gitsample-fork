@@ -36,7 +36,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
-		// more operations to come HeyHoLetsGo 2
+		// more operations to come HeyHoLetsGo Masteraenderung
 		new Equals();
 		new Minus();
 		new Plus();
