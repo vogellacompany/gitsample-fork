@@ -20,9 +20,7 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 /**
  * Der Calculator
- * <p>
- * Ggfs. langer Kommentar.
- */
+  */
 public class Calculator {
 
 	private TextProvider textProvider;
