@@ -18,6 +18,10 @@ import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
+/**
+ * Der Calculator
+ * Dieser Calculator unterstützt die Operationen Equals, Minus, Plus, Square
+  */
 public class Calculator {
 
 	private TextProvider textProvider;
@@ -36,6 +40,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		//more operations to come
 		new Equals();
 		new Minus();
 		new Plus();
