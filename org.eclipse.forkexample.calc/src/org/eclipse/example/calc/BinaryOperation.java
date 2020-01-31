@@ -8,6 +8,7 @@
  *******************************************************************************/
 package org.eclipse.example.calc;
 
+// Hier ein zweiter Kommentar von Simon
 /**
  * Binary operation interface
  */
