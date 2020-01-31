@@ -19,7 +19,7 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 /**
- * TODO 1 Zeile Kurzkommentar.
+ * Der Calculator
  * <p>
  * Ggfs. langer Kommentar.
  */
