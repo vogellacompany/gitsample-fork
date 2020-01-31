@@ -19,5 +19,6 @@ public class Equals extends AbstractOperation implements Operation {
 	public String getName() {
 		return "=";
 	}
+	// tausend neue Kommis für weitere Kommis
 
 }
