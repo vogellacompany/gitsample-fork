@@ -20,6 +20,7 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 /**
  * Der Calculator
+ * Dieser Calculator unterstützt die Operationen Equals, Minus, Plus, Square
   */
 public class Calculator {
 
