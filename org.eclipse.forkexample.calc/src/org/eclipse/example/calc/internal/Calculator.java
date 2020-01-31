@@ -18,6 +18,11 @@ import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
+/**
+ * TODO 1 Zeile Kurzkommentar.
+ * <p>
+ * Ggfs. langer Kommentar.
+ */
 public class Calculator {
 
 	private TextProvider textProvider;
