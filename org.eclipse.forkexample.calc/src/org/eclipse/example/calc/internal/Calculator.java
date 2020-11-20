@@ -39,12 +39,16 @@ public class Calculator {
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
+
 		// ein Kommentar von Stebo58
 		// ein Kommentar von Stebo58 auf SB_local_features 
+		// .....
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		// More to come ...
+		// and even more....
 	}
 
 	private void calculate(String cmdName) {
