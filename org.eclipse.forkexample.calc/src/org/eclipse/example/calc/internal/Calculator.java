@@ -40,6 +40,7 @@ public class Calculator {
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
 		// ein Kommentar von Stebo58
+		// ein Kommentar von Stebo58 auf SB_local_features 
 		new Equals();
 		new Minus();
 		new Plus();
