@@ -17,6 +17,7 @@ import org.eclipse.example.calc.internal.operations.Equals;
 import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
+import org.eclipse.example.calc.internal.operations.XTwo;
 
 public class Calculator {
 
@@ -36,13 +37,14 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
-	    // Das ist der erste Kommentar in masterGithub
-	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
+		// jetzt wieder ein Kommentar, aber diesmal nicht von Ruth
+		// hier sollte noch viel mehr kommen
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		new XTwo();
 	}
 
 	private void calculate(String cmdName) {
