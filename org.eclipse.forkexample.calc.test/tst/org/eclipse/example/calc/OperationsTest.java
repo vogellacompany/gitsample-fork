@@ -19,7 +19,12 @@ import org.eclipse.example.calc.internal.operations.Square;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
+/**
+ * 
+ * testclass for @Operations
+ * <p>
+ * running
+ */
 public class OperationsTest {
 
 	private Square square;
