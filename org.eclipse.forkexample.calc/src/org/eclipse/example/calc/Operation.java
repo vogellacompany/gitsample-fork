@@ -11,6 +11,7 @@ package org.eclipse.example.calc;
 public interface Operation {
 	/**
 	 * @return name of the operation
+	 * Neues Feature ist dazugekommen
 	 */
 	public String getName();
 }
