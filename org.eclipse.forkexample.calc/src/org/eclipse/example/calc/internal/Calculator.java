@@ -23,7 +23,7 @@ public class Calculator {
 	private TextProvider textProvider;
 
 	private String cmd;
-
+// noch einer
 	private boolean clearText;
 
 	private float value;
