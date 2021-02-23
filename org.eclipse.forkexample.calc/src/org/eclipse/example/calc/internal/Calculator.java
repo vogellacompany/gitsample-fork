@@ -25,7 +25,7 @@ public class Calculator {
 	private String cmd;
 
 	private boolean clearText;
-
+	//super wichtiger Kommentar
 	private float value;
 
 	public static String NAME = "Simple Calculator";
