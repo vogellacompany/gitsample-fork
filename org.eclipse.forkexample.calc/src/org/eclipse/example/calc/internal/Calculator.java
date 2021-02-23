@@ -19,6 +19,7 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
+	// DU KANNST EH NICHT RECHNEN!
 
 	private TextProvider textProvider;
 
