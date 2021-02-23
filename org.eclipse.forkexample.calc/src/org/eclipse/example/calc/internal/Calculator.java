@@ -20,6 +20,8 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
 
+    //Testcommit
+    
 	private TextProvider textProvider;
 
 	private String cmd;
