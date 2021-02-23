@@ -19,11 +19,11 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
-
+// Testkommentar
 	private TextProvider textProvider;
 
 	private String cmd;
-
+// noch einer
 	private boolean clearText;
 
 	private float value;
