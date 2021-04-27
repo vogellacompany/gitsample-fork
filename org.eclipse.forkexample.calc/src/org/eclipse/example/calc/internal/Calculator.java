@@ -37,6 +37,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 	    // Kommentar von mir
+	    //2.Kommentar
 		new Equals();
 		new Minus();
 		new Plus();
